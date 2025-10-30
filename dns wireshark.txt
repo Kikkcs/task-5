@@ -1,0 +1,53 @@
+No.     Time           Source                Destination           Protocol Length Info
+     32 4.061912       2401:4900:8811:1282:98ae:a0d5:5952:8874 2401:4900:50:9::280   DNS      94     Standard query 0x417e A assets.msn.com
+
+Frame 32: Packet, 94 bytes on wire (752 bits), 94 bytes captured (752 bits) on interface \Device\NPF_{5E0A243B-4D59-42D8-A0F3-3A62F84213DA}, id 0
+Ethernet II, Src: AzureWaveTec_eb:8a:87 (cc:47:40:eb:8a:87), Dst: ZhoneTechnol_b4:6e:27 (30:4f:75:b4:6e:27)
+Internet Protocol Version 6, Src: 2401:4900:8811:1282:98ae:a0d5:5952:8874, Dst: 2401:4900:50:9::280
+User Datagram Protocol, Src Port: 50806, Dst Port: 53
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+     33 4.061920       2401:4900:8811:1282:98ae:a0d5:5952:8874 2401:4900:50:9::280   DNS      94     Standard query 0xdd37 AAAA assets.msn.com
+
+Frame 33: Packet, 94 bytes on wire (752 bits), 94 bytes captured (752 bits) on interface \Device\NPF_{5E0A243B-4D59-42D8-A0F3-3A62F84213DA}, id 0
+Ethernet II, Src: AzureWaveTec_eb:8a:87 (cc:47:40:eb:8a:87), Dst: ZhoneTechnol_b4:6e:27 (30:4f:75:b4:6e:27)
+Internet Protocol Version 6, Src: 2401:4900:8811:1282:98ae:a0d5:5952:8874, Dst: 2401:4900:50:9::280
+User Datagram Protocol, Src Port: 51503, Dst Port: 53
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+     34 4.098861       2401:4900:8811:1282:98ae:a0d5:5952:8874 2401:4900:50:9::9     DNS      94     Standard query 0xdd37 AAAA assets.msn.com
+
+Frame 34: Packet, 94 bytes on wire (752 bits), 94 bytes captured (752 bits) on interface \Device\NPF_{5E0A243B-4D59-42D8-A0F3-3A62F84213DA}, id 0
+Ethernet II, Src: AzureWaveTec_eb:8a:87 (cc:47:40:eb:8a:87), Dst: ZhoneTechnol_b4:6e:27 (30:4f:75:b4:6e:27)
+Internet Protocol Version 6, Src: 2401:4900:8811:1282:98ae:a0d5:5952:8874, Dst: 2401:4900:50:9::9
+User Datagram Protocol, Src Port: 51503, Dst Port: 53
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+     35 4.099067       2401:4900:8811:1282:98ae:a0d5:5952:8874 2401:4900:50:9::9     DNS      94     Standard query 0x417e A assets.msn.com
+
+Frame 35: Packet, 94 bytes on wire (752 bits), 94 bytes captured (752 bits) on interface \Device\NPF_{5E0A243B-4D59-42D8-A0F3-3A62F84213DA}, id 0
+Ethernet II, Src: AzureWaveTec_eb:8a:87 (cc:47:40:eb:8a:87), Dst: ZhoneTechnol_b4:6e:27 (30:4f:75:b4:6e:27)
+Internet Protocol Version 6, Src: 2401:4900:8811:1282:98ae:a0d5:5952:8874, Dst: 2401:4900:50:9::9
+User Datagram Protocol, Src Port: 50806, Dst Port: 53
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+     36 4.108091       2401:4900:50:9::9     2401:4900:8811:1282:98ae:a0d5:5952:8874 DNS      266    Standard query response 0x417e A assets.msn.com CNAME assets-msn-com-world-atm-default.trafficmanager.net CNAME assets.msn.com-ion.edgesuite.net CNAME a1666.dscr.akamai.net A 23.48.245.90 A 23.48.245.88
+
+Frame 36: Packet, 266 bytes on wire (2128 bits), 266 bytes captured (2128 bits) on interface \Device\NPF_{5E0A243B-4D59-42D8-A0F3-3A62F84213DA}, id 0
+Ethernet II, Src: 32:4f:75:94:6e:29 (32:4f:75:94:6e:29), Dst: AzureWaveTec_eb:8a:87 (cc:47:40:eb:8a:87)
+Internet Protocol Version 6, Src: 2401:4900:50:9::9, Dst: 2401:4900:8811:1282:98ae:a0d5:5952:8874
+User Datagram Protocol, Src Port: 53, Dst Port: 50806
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+     37 4.108091       2401:4900:50:9::9     2401:4900:8811:1282:98ae:a0d5:5952:8874 DNS      374    Standard query response 0xdd37 AAAA assets.msn.com CNAME assets-msn-com-world-atm-default.trafficmanager.net CNAME assets.msn.com-ion.edgesuite.net CNAME a1666.dscr.akamai.net AAAA 2600:1417:6e::170f:2320 AAAA 2600:1417:6e::170f:2321 AAAA 2600:1417:6e::170f:230b AAAA 2600:1417:6e::170f:2322 AAAA 2600:1417:6e::170f:230a
+
+Frame 37: Packet, 374 bytes on wire (2992 bits), 374 bytes captured (2992 bits) on interface \Device\NPF_{5E0A243B-4D59-42D8-A0F3-3A62F84213DA}, id 0
+Ethernet II, Src: 32:4f:75:94:6e:29 (32:4f:75:94:6e:29), Dst: AzureWaveTec_eb:8a:87 (cc:47:40:eb:8a:87)
+Internet Protocol Version 6, Src: 2401:4900:50:9::9, Dst: 2401:4900:8811:1282:98ae:a0d5:5952:8874
+User Datagram Protocol, Src Port: 53, Dst Port: 51503
+Domain Name System (response)
